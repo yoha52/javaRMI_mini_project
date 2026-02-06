@@ -28,12 +28,12 @@ javac *.java
 
 Start the server (in one terminal)
 
-Bashjava MyServer
+java MyServer
 (You should see something like "Server is ready...")
 
 Run the client (in another terminal)
 
-Bashjava MyClient
+java MyClient
 Follow the menu prompts to perform calculations.
 Notes
 
